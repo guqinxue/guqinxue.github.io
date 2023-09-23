@@ -9,7 +9,7 @@ owner:
   name: Qinxue Gu
   avatar: QinxueGu.jpg
  # bio:
-  email: Qinxue.Gu@noaa.gov
+  email: qg4783@princeton.edu
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
@@ -34,12 +34,10 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+ # - title: Research
+ #   url: /research/
   - title: CV
-    url: /file/CV-HanlinCAI.pdf
-  - title: Publications
-    url: /publications/
-  - title: Research
-    url: /research/
+    url: # /file/CV_QinxueGu_2023.9_Github.pdf
   # - title: Awards
   #  url: /awards/
   # - title: Fundings
