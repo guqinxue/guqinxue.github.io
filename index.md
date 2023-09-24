@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-; <img src="https://guqinxue.github.io/profile.jpg" class="floatpic" width="360" height="450">
+; <img src="https://guqinxue.github.io/profile.jpg" class="floatpic" width="600" height="1000">
 
 Hi! This is **Qinxue Gu (Sharon, 顾沁雪)**.
 
