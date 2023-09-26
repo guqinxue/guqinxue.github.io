@@ -8,6 +8,6 @@ layout: page
 
 Hi! This is **Qinxue Gu (Sharon, 顾沁雪)**.
 
-I am postdoctoral researcher at [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/) / [Princeton University](https://aos.princeton.edu/).
+I am a postdoctoral researcher at [Geophysical Fluid Dynamics Laboratory](https://www.gfdl.noaa.gov/) / [Princeton University](https://aos.princeton.edu/).
 
 <br>
